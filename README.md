@@ -1,4 +1,4 @@
-# AutoHotkey_scripts-
+# AutoHotkey_scripts
 
 This is a depository of my personal use scripts and bits of code.
 
